@@ -1,0 +1,3 @@
+[submodule "p"]
+	path = p
+	url = https://github.com/lns741852/git-sub.git
